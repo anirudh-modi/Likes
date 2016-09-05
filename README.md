@@ -1,4 +1,4 @@
-# likes
+# Likes
 Things which I like or find intresting on a daily basis
 
 #### 5, September, 2016
