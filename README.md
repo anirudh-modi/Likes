@@ -6,3 +6,6 @@ Things which I like or find intresting on a daily basis
 * [Pure CSS implementation of Google Photos / 500px image layout](https://github.com/xieranmaya/blog/issues/6)
 * [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.4akalgizs)
 
+#### 6, September, 2016
+* [Journey to HTTP/2](http://kamranahmed.info/blog/2016/08/13/http-in-depth/)
+
