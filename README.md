@@ -8,4 +8,5 @@ Things which I like or find intresting on a daily basis
 
 #### 6, September, 2016
 * [Journey to HTTP/2](http://kamranahmed.info/blog/2016/08/13/http-in-depth/)
+* [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
 
