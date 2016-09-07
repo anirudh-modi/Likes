@@ -11,4 +11,8 @@ Things which I like or find intresting on a daily basis
 * [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
 * [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.1r5ywiu1h)
 * [The Mighty Ellipsis](https://medium.com/@jsaito/the-mighty-ellipsis-6c2c00ddc864#.jvv1az4vy)
+ 
+
+#### 7, September, 2016
+* [Ecmascript Daily](https://ecmascript-daily.github.io/)
 
