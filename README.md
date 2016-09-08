@@ -15,7 +15,6 @@ Things which I like or find intresting on a daily basis
 
 #### 7, September, 2016
 * [Ecmascript Daily](https://ecmascript-daily.github.io/)
-* 
 
 #### 8, September, 2016
 * [Html best practices](https://github.com/hail2u/html-best-practices)
