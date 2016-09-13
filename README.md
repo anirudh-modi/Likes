@@ -24,4 +24,5 @@ Things which I like or find intresting on a daily basis
 * https://twitter.com/kentcdodds/status/775711164579799040
 * [What is the difference between a port and a socket](http://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket)
 * [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)
+* [#NeedToNode Recap: Successfully Managing Production Node.js](https://nodesource.com/blog/needtonode-recap-successfully-managing-production-node-js/)
 
