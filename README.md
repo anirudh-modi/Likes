@@ -22,4 +22,5 @@ Things which I like or find intresting on a daily basis
  
 #### 13, September, 2016
 * https://twitter.com/kentcdodds/status/775711164579799040
+* [What is the difference between a port and a socket](http://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket)
 
