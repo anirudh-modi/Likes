@@ -19,4 +19,7 @@ Things which I like or find intresting on a daily basis
 #### 8, September, 2016
 * [Html best practices](https://github.com/hail2u/html-best-practices)
 * [Housing Go - Behind the Screens](https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.gtc5tynr5)
+ 
+#### 13, September, 2016
+* https://twitter.com/kentcdodds/status/775711164579799040
 
