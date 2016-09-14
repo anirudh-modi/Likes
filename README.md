@@ -29,3 +29,4 @@ Things which I like or find intresting on a daily basis
 #### 14, September, 2016
 * [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.4fgyzct5q)
 * [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.36yjp1i3k)
+* [Don’t ruin your <img>](https://medium.freecodecamp.com/you-need-to-stop-making-these-6-mistakes-with-your-img-s-e242c02d14be#.bvxraf9op)
