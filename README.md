@@ -26,3 +26,6 @@ Things which I like or find intresting on a daily basis
 * [9 Security Tips to Keep Express from Getting Pwned](https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/)
 * [#NeedToNode Recap: Successfully Managing Production Node.js](https://nodesource.com/blog/needtonode-recap-successfully-managing-production-node-js/)
 
+#### 14, September, 2016
+* [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.4fgyzct5q)
+* [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.36yjp1i3k)
