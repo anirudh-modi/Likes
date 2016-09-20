@@ -36,3 +36,4 @@ Basic Patterns for Mobile Navigation](https://uxplanet.org/basic-patterns-for-mo
 #### 20, September, 2016
 * [Design Thinking – Adobe Live Event Day 1](https://www.youtube.com/watch?v=tsePToj6nw4)
 * [Let's look at some of the security at Github](https://chloe.re/2016/08/15/lets-look-at-some-of-the-security-at-github/)
+* [GitHub Engineering](http://githubengineering.com/)
