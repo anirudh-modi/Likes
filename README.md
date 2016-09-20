@@ -32,3 +32,6 @@ Things which I like or find intresting on a daily basis
 * [Don’t ruin your img](https://medium.freecodecamp.com/you-need-to-stop-making-these-6-mistakes-with-your-img-s-e242c02d14be#.bvxraf9op)
 * [Image credit: thinkwithgoogle
 Basic Patterns for Mobile Navigation](https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe#.1x5wbp40y)
+
+#### 20, September, 2016
+* [Design Thinking – Adobe Live Event Day 1](https://www.youtube.com/watch?v=tsePToj6nw4)
