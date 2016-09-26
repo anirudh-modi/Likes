@@ -50,3 +50,6 @@ Basic Patterns for Mobile Navigation](https://uxplanet.org/basic-patterns-for-mo
 #### 23, September, 2016
 * [Js perf](http://jsperf.hasharray.pw/)
 
+#### 26, September, 2016
+* [J, K, or How to choose keyboard shortcuts for web applications](https://medium.com/@sashika/j-k-or-how-to-choose-keyboard-shortcuts-for-web-applications-a7c3b7b408ee#.ejcn8seba)
+
