@@ -45,7 +45,6 @@ Basic Patterns for Mobile Navigation](https://uxplanet.org/basic-patterns-for-mo
  
 #### 22, September, 2016
 * [Browser issue tracker](https://browser-issue-tracker-search.appspot.com/?q=css%20flexbox)
-* [Shamasis's blog](http://www.shamasis.net/)
 
 #### 23, September, 2016
 * [Js perf](http://jsperf.hasharray.pw/)
