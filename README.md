@@ -55,3 +55,6 @@ Basic Patterns for Mobile Navigation](https://uxplanet.org/basic-patterns-for-mo
 
 #### 11, October, 2016
 * [Google interview university](https://github.com/jwasham/google-interview-university)
+
+#### 2, November, 2016
+* [React how to](https://github.com/petehunt/react-howto)
