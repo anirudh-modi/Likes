@@ -58,3 +58,8 @@ Basic Patterns for Mobile Navigation](https://uxplanet.org/basic-patterns-for-mo
 
 #### 2, November, 2016
 * [React how to](https://github.com/petehunt/react-howto)
+
+#### 4, April, 2017
+* [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges)
+* [Web Development Top 10 Articles in March 2017](https://medium.mybridge.co/web-development-top-10-articles-in-march-2017-cc5351765ce2)
+
